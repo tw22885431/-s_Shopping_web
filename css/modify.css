@@ -1,0 +1,29 @@
+#signin {
+
+    color: aliceblue;
+
+}
+
+#signin:hover {
+
+    color:#ffe8a1;
+
+    text-decoration: none;
+
+}
+
+#login{
+
+    background-color: transparent;
+
+    color: aliceblue;
+
+}
+
+#login:hover{
+
+    color: black;
+
+    background-color: greenyellow;
+
+}
