@@ -35,7 +35,32 @@
     border-radius: 15px;
 
 }
+.center{
 
+    margin: 0 auto;
 
+    display:contents;
+				
+	float:none;
+				
+	vertical-align: top;	
+    
+}
+
+.center li a{
+
+    color: white;
+    
+    font-size: large;
+}
+.center li a:hover{
+     
+     color: snow;
+     
+     font-size: large;
+     
+     text-decoration: none;
+     
+}
 
 
