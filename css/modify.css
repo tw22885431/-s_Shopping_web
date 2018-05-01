@@ -37,8 +37,10 @@
 }
 .center{
 
-    display:contents;
-				
+    margin: 0 auto;
+
+    display: contents;
+                
 	float:none;
 				
 	vertical-align: top;	
@@ -47,15 +49,18 @@
 
 .center li a{
 
-    text-align: center;
+    margin-left: 30px;
 
+    margin-right: 30px;
+        
     color: white;
     
     font-size: large;
 }
 .center li a:hover{
      
-     color: snow;
+
+     color: orangered;
      
      font-size: large;
      
