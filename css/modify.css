@@ -37,8 +37,6 @@
 }
 .center{
 
-    margin: 0 auto;
-
     display:contents;
 				
 	float:none;
@@ -48,6 +46,8 @@
 }
 
 .center li a{
+
+    text-align: center;
 
     color: white;
     
